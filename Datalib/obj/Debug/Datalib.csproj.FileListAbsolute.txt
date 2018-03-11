@@ -1,0 +1,11 @@
+C:\Users\KESAVAN\source\repos\App3\Datalib\bin\Debug\Datalib.dll
+C:\Users\KESAVAN\source\repos\App3\Datalib\bin\Debug\Datalib.pdb
+C:\Users\KESAVAN\source\repos\App3\Datalib\bin\Debug\Datalib.Datalib.apk
+C:\Users\KESAVAN\source\repos\App3\Datalib\bin\Debug\Datalib.Datalib-Signed.apk
+C:\Users\KESAVAN\source\repos\App3\Datalib\obj\Debug\Datalib.csproj.CoreCompileInputs.cache
+C:\Users\KESAVAN\source\repos\App3\Datalib\obj\Debug\Datalib.dll
+C:\Users\KESAVAN\source\repos\App3\Datalib\obj\Debug\Datalib.pdb
+C:\Users\KESAVAN\source\repos\App3\Datalib\obj\Debug\android\bin\Datalib.Datalib.apk
+C:\Users\KESAVAN\source\repos\App3\Datalib\obj\Debug\R.cs.flag
+C:\Users\KESAVAN\source\repos\App3\Datalib\obj\Debug\uploadflags.txt
+C:\Users\KESAVAN\source\repos\App3\Datalib\obj\Debug\Datalib.csprojResolveAssemblyReference.cache
